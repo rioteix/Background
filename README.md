@@ -1,3 +1,3 @@
 # Space-Race
 
-http://127.0.0.1:5501/
+https://rioteix.github.io/Space-Race/.
